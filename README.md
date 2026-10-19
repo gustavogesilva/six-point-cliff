@@ -1,6 +1,6 @@
 # The Six-Point Cliff
 
-This repo holds the model behind the [Proteo Markets](https://proteomarkets.substack.com) post *The Six-Point Cliff*. The model asks how a scare in private credit would reach the banks that lend to it, and how likely it is that a large bank ends up below its legal capital minimum.
+This repo holds the model behind the [Proteo Markets](https://proteomarkets.substack.com) post [*The Six-Point Cliff That Could Bring Us Back To 2008*](https://proteomarkets.substack.com/p/the-six-point-cliff-that-could-bring), published on 19 October 2026. The model asks how a scare in private credit would reach the banks that lend to it, and how likely it is that a large bank ends up below its legal capital minimum.
 
 It has two halves that do the same arithmetic. The Excel workbook in `model/` has live formulas you can click through. The Python engine in `src/` runs the same formulas thousands of times for the Monte Carlo, and a Checks sheet in the workbook confirms the two agree.
 
@@ -36,7 +36,7 @@ data/
   inputs.json         per-bank, per-BDC and per-deal inputs, with a source for every field
   results/            output of the scripts above (JSON)
 post/
-  post.md             the article
+  post.md             the article as drafted (published version on Substack, linked above)
   fig/                charts and tables as published (1456 px wide)
   charts.py, tables.py, build.py, fetch_prices.py   the scripts that make them
 ```

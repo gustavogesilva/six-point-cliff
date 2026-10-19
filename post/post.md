@@ -1,5 +1,7 @@
 # The Six-Point Cliff
 
+*Published on Proteo Markets on 19 October 2026 as [The Six-Point Cliff That Could Bring Us Back To 2008](https://proteomarkets.substack.com/p/the-six-point-cliff-that-could-bring).*
+
 *We modelled how a private-credit scare would reach the banks. The bad loans did less damage than the headlines about them, and on today's prices the tipping point is about six points away.*
 
 Claude and I ran through this over the weekend.
