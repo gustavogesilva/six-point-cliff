@@ -1,0 +1,7 @@
+__pycache__/
+*.pyc
+.venv/
+data/prices/
+post/post.html
+~$*.xlsx
+.DS_Store
